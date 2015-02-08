@@ -5,9 +5,16 @@
   <version>2.5-SNAPSHOT</version>
   <versioning>
     <snapshot>
+<<<<<<< HEAD
       <timestamp>20150208.144044</timestamp>
       <buildNumber>4</buildNumber>
     </snapshot>
     <lastUpdated>20150208144044</lastUpdated>
+=======
+      <timestamp>20150208.134257</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150208134257</lastUpdated>
+>>>>>>> 7734119fd01ac1bc410f80da7c32224e3f471770
   </versioning>
 </metadata>
