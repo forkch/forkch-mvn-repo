@@ -7,11 +7,8 @@
     <versions>
       <version>2.5-SNAPSHOT</version>
       <version>2.5.0</version>
+      <version>2.5.2</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20150208172122</lastUpdated>
-=======
-    <lastUpdated>20150208162906</lastUpdated>
->>>>>>> af1a55392ff1995fb299e58e72e786cd361d3b64
+    <lastUpdated>20150404073049</lastUpdated>
   </versioning>
 </metadata>
